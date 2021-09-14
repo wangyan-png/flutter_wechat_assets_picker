@@ -17,6 +17,7 @@ import '../constants/constants.dart';
 import '../widget/builder/asset_entity_grid_item_builder.dart';
 import '../widget/builder/value_listenable_builder_2.dart';
 import '../widget/scale_text.dart';
+import 'package:provider/provider.dart';
 
 typedef IndicatorBuilder = Widget Function(
   BuildContext context,

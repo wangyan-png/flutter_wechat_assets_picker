@@ -11,7 +11,6 @@ import '../delegates/assets_picker_text_delegate.dart';
 import '../delegates/sort_path_delegate.dart';
 
 export 'package:photo_manager/photo_manager.dart';
-export 'package:provider/provider.dart';
 export 'package:video_player/video_player.dart';
 
 export '../delegates/asset_picker_builder_delegate.dart';

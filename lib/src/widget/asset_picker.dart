@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../constants/constants.dart';
+import 'package:provider/provider.dart';
 
 class AssetPicker<Asset, Path> extends StatefulWidget {
   const AssetPicker({

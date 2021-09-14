@@ -14,6 +14,7 @@ import '../constants/constants.dart';
 import '../widget/builder/value_listenable_builder_2.dart';
 import '../widget/custom_checkbox.dart';
 import '../widget/scale_text.dart';
+import 'package:provider/provider.dart';
 
 abstract class AssetPickerViewerBuilderDelegate<Asset, Path> {
   AssetPickerViewerBuilderDelegate({
